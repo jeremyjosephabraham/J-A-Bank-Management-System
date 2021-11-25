@@ -1,7 +1,7 @@
 # J-A-Bank-Management-System
 # An efficient  Bank Management Desktop Application (Java/SQL) with both admin and client perspectives designed to showcase Java,SQL and GUI designing skills for the Software Engineering course in the 4th academic semester.
 
-*How to run: <br />
+How to run: <br />
 1.Run Login.java as the main class present in J-A-Bank-Management-System/Bank_Management_System/src/Login.java <br />
 ![image](https://user-images.githubusercontent.com/84687312/143386270-fdfd3921-4bfc-4747-b747-8a6b8172154b.png) <br>
 
